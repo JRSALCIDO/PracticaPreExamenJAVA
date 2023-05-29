@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">(JAVA)PracticaPreExamen</string>
+    <string name="titulo">Cálculo de pago de nomina</string>
+    <string name="recibo_numero">Numero de Recibo</string>
+    <string name="calcular">Calcular</string>
+    <string name="nombre"></string>
+</resources>
