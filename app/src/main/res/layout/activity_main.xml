@@ -58,7 +58,7 @@
             android:id="@+id/imgCalculadora"
             android:layout_width="match_parent"
             android:layout_height="337dp"
-            android:src="@mipmap/Logo2_foreground"
+            android:src="@mipmap/logo3_foreground"
 
             ></ImageView>
 
